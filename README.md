@@ -87,8 +87,9 @@ while(var > 10){//var 이 10보다 많다면?
 //while문은 괄호안의 조건이 충족되는 동안 중괄호 안의 기능을 반복해서 수행한다.
 ```
 
-[아두이노 라이브러리 다운로드 하는 법 알아보기](http://blog.naver.com/roboholic84/220583130285)
-[아다후르츠 네오픽셀 라이브러리 바로가기](https://github.com/adafruit/Adafruit_NeoPixel)
+### 추가 링크들
+* [아두이노 라이브러리 다운로드 하는 법 알아보기](http://blog.naver.com/roboholic84/220583130285)
+* [아다후르츠 네오픽셀 라이브러리 바로가기](https://github.com/adafruit/Adafruit_NeoPixel)
 
 
 
