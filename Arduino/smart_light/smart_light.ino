@@ -12,7 +12,7 @@ void setup() {
 byte r = 0, g = 0, b = 0;
 int Count = 1;
 void loop() {
-  if (Serial.available() > 5) { //수신받은 블루투스 데이터가 2개 초과일때
+  if (Serial.available() > 5) { //수신받은 블루투스 데이터가 5개를 넘을때
     if(Serial.read() != '['){return;}
     //DATA 패킷이 '['로 시작하고 ']'로 종료가 됩니다.
     //패킷의 포멧이 맞지 않을경우에는 LED가 동작하지 않도록 되어있습니다.
